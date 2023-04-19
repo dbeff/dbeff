@@ -5,7 +5,7 @@
 [![Gmail](https://img.shields.io/badge/-Gmail-c14438?style=flat&logo=Gmail&logoColor=white)](mailto:daniel.beff@gmail.com)
 
 I'm Daniel Beff, A software engineer from Brazil based in Berlin, Germany.\
-My passion for design and engineering made me a very creative person that loves the craft of building interfaces and experiences.
+My passion for design and engineering made me a very creative person that loves the craft of building user interfaces.
 
 I'm also an open-source enthusiast and maintainer.\
 I learned a lot from the open-source community and I love how collaboration and knowledge sharing happened through open-source.
